@@ -3,7 +3,6 @@
 # 💫 About Me:
 ❤️  I like R and Python \
 📊 Ask me anything about Biostatistics and I can probably answer it :) \
-📱 I'm trying to develop a mobile app rn
 
 
 # 💻 I program a lot of this:
