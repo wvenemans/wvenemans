@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 ❤️  I like R and Python \
-📊 Ask me anything about Biostatistics and I can probably answer it :)
+📊 Ask me anything about Biostatistics and I can probably answer it :) \
+🐶 I'm currently working as Project Manager at SYSplatform
 
 
 # 💻 I program a lot of this:
